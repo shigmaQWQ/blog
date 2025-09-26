@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shigma&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Shigma&#39;s blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/sidebar/bio/</link>
+      <link>https://example.com/sidebar/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sidebar/bio/</guid>
+      <guid>https://example.com/sidebar/bio/</guid>
       <description>&lt;p&gt;这里是shigma！&lt;br&gt;&#xA;&lt;br&gt;&#xA;我想做些有趣的事情。&lt;br&gt;&#xA;比如创作一些音乐&lt;br&gt;&#xA;我想成为专业的创作者&lt;br&gt;&#xA;&lt;br&gt;&#xA;因为这样就可以宅在家里不用出门工作啦！(划掉)&lt;/p&gt;</description>
     </item>
   </channel>
